@@ -1,6 +1,12 @@
 # Handcam V1
 
 Raspberry PI powered digital camera, broadcasts WIFI hotspot for users to view images/video captured.
+![Alt text](https://i.imgur.com/CxQmDMc.jpg?raw=true "Front")
+![Alt text](https://i.imgur.com/Qg5Jdca.jpg?raw=true "Front")
+
+### Building steps
+These are the steps I went through building the handcam.
+https://imgur.com/a/uwzoy
 
 ### Program files
 
