@@ -16,8 +16,8 @@ File specifications:
 * `cam.py`: Listener for video recording written in python, uses a tmp file to communicate with main to record and encode video since it can't be done with golang.
 * `tmp`: File that stores one byte (status code) to trigger events in the python script, more info in comments.
 
-###Usage
+### Usage
  Build the cam.go using go build and run the python script cam.py, preferably add them both to bootup.
 
-###To Do
+### To Do
  Create webservice to download and view videos and images captured by the handcam
